@@ -26,14 +26,14 @@ neither would be my efforts to learn and grow . Each new challege excites me to 
 
 Finally a short note on some of my projects :
 
-1.<h3> Coding Projects:</h3>
+<h3> Coding Projects:</h3>
 
   a. COVID Attendance System : As the pandamic struck usall around the world bio-metric systems for attendace at different institutes increased the risk of
                       spread to tackle such thing and be ready when lockdown uplifts , we developed a contactless attendance system using facial-recognization and temperature
                       sensors for ensuring standard guidelines to ask ill person to stay at home but marking him/her as medical leave on checking his/her temperature if goes
                       above set threshold.
 
-2.<h3> Web Dev Projects :</h3>
+<h3> Web Dev Projects :</h3>
 
    a. PACA - People Against Cyber Abuse :  As a front end developer on this project we were responsible to convert the vision of our designing team to the
                       actual website that is to be viewed by our auideince . 
